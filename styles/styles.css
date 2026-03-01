@@ -247,7 +247,7 @@ textarea {
   content: '';
   display: block;
   width: 18px; height: 18px;
-  background: url('/img/variant-active.svg');
+  background: url('./img/variant-active.svg');
 }
 
 .price__pre {
@@ -324,7 +324,7 @@ textarea {
   display: block;
   width: 17px;
   height: 15px;
-  background: url('/img/like-vector.svg')50% no-repeat;
+  background: url('./img/like-vector.svg')50% no-repeat;
   transition: all 250ms ease;
 }
 
@@ -358,7 +358,7 @@ textarea {
   display: block;
   width: 12px;
   height: 12px;
-  background: url('/img/more-link.svg') 50% no-repeat;
+  background: url('./img/more-link.svg') 50% no-repeat;
 }
 
 @media only screen and (max-width: 480px) {
